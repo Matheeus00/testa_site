@@ -7,7 +7,7 @@
 <li>Digite "0" para sair do programa</li>
 </ul>
 <br>
-<p>Ao digitar "1", o software cria um arquivo chamado logs.txt, que pode ser exibido no terminal posteriormente digitando "2".</p>
+<p>Ao digitar "<em>1</em>", o software cria um arquivo chamado logs.txt, que pode ser exibido no terminal posteriormente digitando "2".</p>
 <br>
 <p>
   <bold>
